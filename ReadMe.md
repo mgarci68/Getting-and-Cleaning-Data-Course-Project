@@ -5,10 +5,6 @@ date: "3 de abril de 2020"
 output: pdf_document
 ---
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
-
 ## Getting and Cleaning Data - Course Project
 1.dowload the data collected from the accelerometers from the Samsung Galaxy S smartphone.
 
